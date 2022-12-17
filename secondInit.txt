@@ -1,0 +1,2 @@
+Text file in second repo which created directly on the git server 
+and the cloned to the local using git command.
